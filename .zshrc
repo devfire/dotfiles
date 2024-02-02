@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:$PATH:~/.cache/coursier/arc/https/github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%252B9/OpenJDK11U-jdk_x64_linux_hotspot_11.0.21_9.tar.gz/jdk-11.0.21+9/bin
+export PATH=$HOME/bin:/usr/local/bin:$PATH:
 
 # Download Znap, if it's not there yet.
 [[ -r ~/Documents/znap/znap.zsh ]] ||
